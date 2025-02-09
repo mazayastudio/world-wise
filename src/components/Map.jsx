@@ -2,7 +2,7 @@ import styles from './Map.module.css';
 
 function Map() {
   return (
-    <div className={styles.map}>
+    <div className={styles.mapContainer}>
       Map
     </div>
   )
